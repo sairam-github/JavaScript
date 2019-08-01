@@ -1,0 +1,9 @@
+{
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/smadem/synthwave84.css"
+    ],
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 20,
+    "editor.fontWeight": "600",
+    "editor.fontLigatures": true,
+}
