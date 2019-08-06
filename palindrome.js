@@ -6,4 +6,4 @@ console.log(myReversedArray);
 myReversedStr = myReversedArray.join('');
 console.log(myReversedStr);
 
-console.log(myStr === myReversedStr);
+console.log(`Is ${myStr} a palindrome?:`, myStr === myReversedStr);
