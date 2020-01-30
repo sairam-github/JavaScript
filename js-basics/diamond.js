@@ -48,4 +48,4 @@ function printDiamod(limit) {
     }
 }
 
-printDiamod(5);
+printDiamod(31);
